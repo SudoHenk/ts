@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "momentjs": "^2.0.0",
+    "react": "^19.1.0"
+  }
 }
